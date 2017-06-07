@@ -1,10 +1,9 @@
 Here, you can find all cheatsheets for Data Science, Machine Learning and Deep Learning. 
 
 
-- <a href="https://github.com/prashanth95r/Awesome-DataScience-Cheatsheets/blob/master/Python/PythonBasics.pdf">PythonBasics</a><br>
-
+- [**PythonBasics**](https://github.com/prashanth95r/Awesome-DataScience-Cheatsheets/blob/master/Python/PythonBasics.pdf)<br>
 - [**Numpy**](https://github.com/prashanth95r/Awesome-DataScience-Cheatsheets/blob/master/Python/Numpy.pdf)<br>
-- [**NUmpyBasics**](https://github.com/prashanth95r/Awesome-DataScience-Cheatsheets/blob/master/Python/Numpy2.pdf)<br>
+- [**NumpyBasics**](https://github.com/prashanth95r/Awesome-DataScience-Cheatsheets/blob/master/Python/Numpy2.pdf)<br>
 - [**Pandas**](https://github.com/prashanth95r/Awesome-DataScience-Cheatsheets/blob/master/Python/pandas.pdf)<br>
 - [**Matplotlib**](https://github.com/prashanth95r/Awesome-DataScience-Cheatsheets/blob/master/Python/Matplotlib.pdf)<br>
 - [**SciPy**](https://github.com/prashanth95r/Awesome-DataScience-Cheatsheets/blob/master/Python/SciPy.pdf)<br>
