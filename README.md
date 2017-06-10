@@ -24,5 +24,14 @@ Here, you can find all cheatsheets for Data Science, Machine Learning and Deep L
 - [**Leaflet**](https://github.com/prashanth95r/Awesome-DataScience-Cheatsheets/blob/master/R/Leaflet.pdf)<br>
 - [**Package Development**](https://github.com/prashanth95r/Awesome-DataScience-Cheatsheets/blob/master/R/Package-Development.pdf)<br>
 - [**Shiny App**](https://github.com/prashanth95r/Awesome-DataScience-Cheatsheets/blob/master/R/Shiny.pdf)<br>
+- [**ggplot**](https://github.com/prashanth95r/Awesome-DataScience-Cheatsheets/blob/master/R/ggplot2.pdf)<br>
+- [**Regular Expressions**](https://github.com/prashanth95r/Awesome-DataScience-Cheatsheets/blob/master/R/Regular%20Expression.pdf)<br>
+- [**Sparklyr**](https://github.com/prashanth95r/Awesome-DataScience-Cheatsheets/blob/master/R/sparklyr.pdf)<br>
 
+<b> Data visualisation<b>
 
+- [**Data visualisation**](https://github.com/prashanth95r/Awesome-DataScience-Cheatsheets/blob/master/R/Data-visualisation.jpg)<br>
+
+<b> Machine Learning <b>
+
+- [**Road to ML**](https://github.com/prashanth95r/Awesome-DataScience-Cheatsheets/blob/master/Machine%20Learning/Road_to_ML.png)<br>
