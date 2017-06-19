@@ -35,3 +35,12 @@ Here, you can find all cheatsheets for Data Science, Machine Learning and Deep L
 <b> Machine Learning <b>
 
 - [**Road to ML**](https://github.com/prashanth95r/Awesome-DataScience-Cheatsheets/blob/master/Machine%20Learning/Road_to_ML.png)<br>
+- [**Azure ML**](https://github.com/prashanth95r/Awesome-DataScience-Cheatsheets/blob/master/Machine%20Learning/microsoft-machine-learning-algorithm-cheat-sheet-v6.pdf)<br>
+- [**ML-Emoji Style**](https://github.com/prashanth95r/Awesome-DataScience-Cheatsheets/blob/master/Machine%20Learning/ML_Emoji_Cheat_sheet.png)<br>
+
+<b> Databases <b>
+
+- [**MongoDB**](https://github.com/prashanth95r/Awesome-DataScience-Cheatsheets/blob/master/Databases/MongoDB-CheatSheet.pdf)<br>
+- [**REDIS**](https://github.com/prashanth95r/Awesome-DataScience-Cheatsheets/blob/master/Databases/REDIS.pdf)<br>
+- [**Neo4J**](https://github.com/prashanth95r/Awesome-DataScience-Cheatsheets/blob/master/Databases/neo4j.pdf)<br>
+
